@@ -19,7 +19,7 @@ export default function Navigation() {
             <img
               src="https://api.builder.io/api/v1/image/assets/TEMP/b60d104c94ce98954a9144cacc5f798bbf6ce75a?width=274"
               alt="Prismatica Logo"
-              className="h-10 w-auto"
+              className="h-14 w-auto"
             />
           </div>
 
